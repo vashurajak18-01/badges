@@ -1,4 +1,3 @@
 # Achievements 
 ## Only One Badge of QuickDraw from solve the issue...
-## Hello Sir !! How are you ??
  ## Am I Here
