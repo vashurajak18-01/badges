@@ -4,5 +4,5 @@
 ### _Am I Here ??_
 _None other than **Vashu Rajak**_
 ## Hello hello!!!
-The basic purpose of this repository is to add fake contribution in the **_GitHub Account_*
+The basic purpose of this repository is to add fake contribution in the **_GitHub Account_**
 
