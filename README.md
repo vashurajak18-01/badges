@@ -1,4 +1,4 @@
-# ***__Achievements_ _Repository__***
+# **__Achievements_ _Repository__**
 # **Only One _Badge Unlock_**
 ## **Only One Badge *I* got that is _QuickDraw_ Badge** <><><
 ### _I am **a Student**...._
