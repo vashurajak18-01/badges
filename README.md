@@ -1,6 +1,6 @@
 # **___Achievements___ __Repository__**
 # **__Only One Badge Unlock__**
-## **Only One Badge *I* got that is _QuickDraw_ Badge** <><><
+## **_Only One Badge *I* got that is _QuickDraw_ Badge_** <><><
 ### _I am **a Student**...._
 ###  _None other than **__Vashu Rajak__**_
 ## **_Hello hello!!_**
