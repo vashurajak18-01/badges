@@ -1,5 +1,5 @@
 # **__Achievements__ ___Repository___**
-# **__Only One Badge Unlock__**
+# **___Only One Badge Unlock___**
 ## **_Only One Badge *I* got that is _QuickDraw_ Badge_** <><><
 ### _I am **a Student** of B.Tech...._
 ###  _None other than **__Vashu Rajak__**_
