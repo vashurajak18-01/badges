@@ -2,7 +2,7 @@
 # **__Only One Badge Unlock__**
 ## **_Only One Badge *I* got that is _QuickDraw_ Badge_** 
 ### _I am **a Student** of B.Tech...._
-###  _None other than **__Vashu Rajak__**
+###  None other than **__Vashu Rajak__**
 ## **__Hello hello!!__**
 The basic purpose of this repository is to add fake contribution in the **_GitHub Account_** 
 # **____217 commit____** 
